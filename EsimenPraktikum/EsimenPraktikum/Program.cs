@@ -10,28 +10,61 @@ namespace EsimenePraktikum
     {
         static void Main(string[] args)
         {
-            string kysimus = "Palun anna üks arv: ";
+            string kysimus = "Kui vana sa oled?: ";
 
-            int a = kysiKasutajaltArvu(kysimus);
+            int a = KysiKasutajaltArvu(kysimus);
 
-            Console.WriteLine("Sisestatud arv oli: "+a);
+            if (a > 17)
+            {
+                Console.WriteLine("Juba täisealine!");
+            }
+            else
+            {
+                Console.WriteLine("Veel mitte täisealine");
+            }
+
         }
 
-        static int kysiKasutajaltArvu(string kysimus)
+        static int KysiKasutajaltArvu(string kysimus)
         {
             int a;
 
-            Console.Write(kysimus);
-            string vastus = Console.ReadLine();
-            
+            var vastus = LooKonsooliRida(kysimus);
+
             if (int.TryParse(vastus, out a))
             {
                 return a;
             }
             else
             {
-                return kysiKasutajaltArvu(kysimus);
+                return KysiKasutajaltArvu(kysimus);
             }
+        }
+
+        private static string LooKonsooliRida(string kysimus)
+        {
+            Console.Write(kysimus);
+            string vastus = Console.ReadLine();
+            return vastus;
+        }
+
+        static decimal FahrenHeitToKelvin(string kysimus)
+        {
+            decimal kelvin;
+            decimal fahren;
+
+            var vastus = LooKonsooliRida(kysimus);
+
+            if (decimal.TryParse(vastus, out fahren))
+            {
+                kelvin = fahren;
+            }
+            else
+            {
+                return FahrenHeitToKelvin("Anna Fahrenheit");
+            }
+
+            return kelvin;
         }
     }
 }

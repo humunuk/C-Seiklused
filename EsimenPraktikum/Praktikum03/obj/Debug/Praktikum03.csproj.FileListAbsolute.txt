@@ -1,0 +1,6 @@
+C:\Users\skallari\Desktop\C#\C-Seiklused\EsimenPraktikum\Praktikum03\bin\Debug\Praktikum03.exe.config
+C:\Users\skallari\Desktop\C#\C-Seiklused\EsimenPraktikum\Praktikum03\bin\Debug\Praktikum03.exe
+C:\Users\skallari\Desktop\C#\C-Seiklused\EsimenPraktikum\Praktikum03\bin\Debug\Praktikum03.pdb
+C:\Users\skallari\Desktop\C#\C-Seiklused\EsimenPraktikum\Praktikum03\obj\Debug\Praktikum03.exe
+C:\Users\skallari\Desktop\C#\C-Seiklused\EsimenPraktikum\Praktikum03\obj\Debug\Praktikum03.pdb
+C:\Users\skallari\Desktop\C#\C-Seiklused\EsimenPraktikum\Praktikum03\obj\Debug\Praktikum03.csprojResolveAssemblyReference.cache

@@ -1,6 +1,5 @@
 C:\Users\skallari\Desktop\C#\C-Seiklused\EsimenPraktikum\EsimenPraktikum\bin\Debug\EsimenPraktikum.exe.config
 C:\Users\skallari\Desktop\C#\C-Seiklused\EsimenPraktikum\EsimenPraktikum\bin\Debug\EsimenPraktikum.exe
 C:\Users\skallari\Desktop\C#\C-Seiklused\EsimenPraktikum\EsimenPraktikum\bin\Debug\EsimenPraktikum.pdb
-C:\Users\skallari\Desktop\C#\C-Seiklused\EsimenPraktikum\EsimenPraktikum\obj\Debug\EsimenePraktikum.csprojResolveAssemblyReference.cache
 C:\Users\skallari\Desktop\C#\C-Seiklused\EsimenPraktikum\EsimenPraktikum\obj\Debug\EsimenPraktikum.exe
 C:\Users\skallari\Desktop\C#\C-Seiklused\EsimenPraktikum\EsimenPraktikum\obj\Debug\EsimenPraktikum.pdb
