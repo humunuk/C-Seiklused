@@ -1,0 +1,14 @@
+C:\Users\skallari\Desktop\C-Seiklused\WPF baasteadmised\InimesteKuvamine\InimesteKuvamine\bin\Debug\InimesteKuvamine.exe.config
+C:\Users\skallari\Desktop\C-Seiklused\WPF baasteadmised\InimesteKuvamine\InimesteKuvamine\bin\Debug\InimesteKuvamine.exe
+C:\Users\skallari\Desktop\C-Seiklused\WPF baasteadmised\InimesteKuvamine\InimesteKuvamine\bin\Debug\InimesteKuvamine.pdb
+C:\Users\skallari\Desktop\C-Seiklused\WPF baasteadmised\InimesteKuvamine\InimesteKuvamine\obj\Debug\InimesteKuvamine.csprojResolveAssemblyReference.cache
+C:\Users\skallari\Desktop\C-Seiklused\WPF baasteadmised\InimesteKuvamine\InimesteKuvamine\obj\Debug\MainWindow.g.cs
+C:\Users\skallari\Desktop\C-Seiklused\WPF baasteadmised\InimesteKuvamine\InimesteKuvamine\obj\Debug\App.g.cs
+C:\Users\skallari\Desktop\C-Seiklused\WPF baasteadmised\InimesteKuvamine\InimesteKuvamine\obj\Debug\InimesteKuvamine_MarkupCompile.cache
+C:\Users\skallari\Desktop\C-Seiklused\WPF baasteadmised\InimesteKuvamine\InimesteKuvamine\obj\Debug\InimesteKuvamine_MarkupCompile.lref
+C:\Users\skallari\Desktop\C-Seiklused\WPF baasteadmised\InimesteKuvamine\InimesteKuvamine\obj\Debug\MainWindow.baml
+C:\Users\skallari\Desktop\C-Seiklused\WPF baasteadmised\InimesteKuvamine\InimesteKuvamine\obj\Debug\InimesteKuvamine.g.resources
+C:\Users\skallari\Desktop\C-Seiklused\WPF baasteadmised\InimesteKuvamine\InimesteKuvamine\obj\Debug\InimesteKuvamine.Properties.Resources.resources
+C:\Users\skallari\Desktop\C-Seiklused\WPF baasteadmised\InimesteKuvamine\InimesteKuvamine\obj\Debug\InimesteKuvamine.csproj.GenerateResource.Cache
+C:\Users\skallari\Desktop\C-Seiklused\WPF baasteadmised\InimesteKuvamine\InimesteKuvamine\obj\Debug\InimesteKuvamine.exe
+C:\Users\skallari\Desktop\C-Seiklused\WPF baasteadmised\InimesteKuvamine\InimesteKuvamine\obj\Debug\InimesteKuvamine.pdb
